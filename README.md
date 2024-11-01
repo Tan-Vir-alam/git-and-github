@@ -1,1 +1,2 @@
-!Git and Github basic.
+#we are learning git and github @bongodev
+
